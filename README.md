@@ -20,7 +20,7 @@ NumPy • Pandas • SciPy • scikit-learn • Matplotlib • Seaborn • Jupyt
 Simulated how mechanical strain in collagen fibers influences degradation via macrophage activity.  
 *Tools:* Python, C++, OOP, data analysis  
 
-### 🕹Asteroid Game (C++)  
+### Asteroid Game (C++)  
 Developed a 2D asteroid-shooter game using SFML to practice object-oriented programming and real-time graphics rendering.  
 *Tools:* C++, SFML, object-oriented design  
 
