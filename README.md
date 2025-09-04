@@ -21,8 +21,8 @@ Simulated how mechanical strain in collagen fibers influences degradation via ma
 *Tools:* Python, C++, OOP, data analysis  
 
 ### Asteroid Game (C++)  
-Developed a 2D asteroid-shooter game using SFML to practice object-oriented programming and real-time graphics rendering.  
-*Tools:* C++, SFML, object-oriented design  
+Developed a 2D asteroid-shooter game using SFML to practice object-oriented programming and real-time graphics rendering.  - For viewing access for this repository that contains more projects in C++, please email me with your request.
+*Tools:* C++, SFML, object-oriented design 
 
 ### Airbnb Price Prediction  
 Built regression models (Random Forest, Gradient Boosting, Linear) to predict Airbnb prices in NYC.  
@@ -42,5 +42,5 @@ Built regression models (Random Forest, Gradient Boosting, Linear) to predict Ai
 ## Let’s Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/adena-paul)  
-- [a.paul.iowa@gmail.com]  
+- [adena-paul@uiowa.edu]  
 - GitHub: [@a-k-paul](https://github.com/a-k-paul)
