@@ -22,6 +22,7 @@ Simulated how mechanical strain in collagen fibers influences degradation via ma
 
 ### Asteroid Game (C++)  
 Developed a 2D asteroid-shooter game using SFML to practice object-oriented programming and real-time graphics rendering.  - For viewing access for this repository that contains more projects in C++, please email me with your request.
+
 *Tools:* C++, SFML, object-oriented design 
 
 ### Airbnb Price Prediction  
