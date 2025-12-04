@@ -19,7 +19,7 @@ NumPy • Pandas • SciPy • scikit-learn • Matplotlib • Seaborn • Jupyt
 ### Collagen-Macrophage Interaction Simulator  
 Simulated how mechanical strain in collagen fibers influences degradation via macrophage activity.  
 *Tools:* Python, C++, OOP, data analysis  
-*[Code](https://github.com/a-k-paul/adenasprings.git)
+[Code](https://github.com/a-k-paul/adenasprings.git)
 
 ### Asteroid Game (C++)  
 Developed a 2D asteroid-shooter game using SFML to practice object-oriented programming and real-time graphics rendering.  - For viewing access for this repository that contains more projects in C++, please email me with your request.
@@ -35,7 +35,7 @@ Built regression models (Random Forest, Gradient Boosting, Linear) to predict Ai
 ## Interests & Involvement
 
 - **Treasurer**, Biomedical Engineering Society — managed finances, led fundraising, and supported student events  
-- *[AI Studio](https://github.com/a-k-paul/fall-ai-studio.git) — Fall semester applied AI project  
+- [AI Studio](https://github.com/a-k-paul/fall-ai-studio.git) — Fall semester applied AI project  
 - Biomedical research in immune system mechanics and tissue modeling  
 - Hobbies: digital art, running, crocheting, reading, and creative problem-solving over coffee
 
