@@ -10,7 +10,7 @@ I’m a biomedical engineering student passionate about using technology to solv
 Python • C++ • MATLAB • R • JavaScript
 
 **Tools & Libraries:**  
-NumPy • Pandas • SciPy • scikit-learn • Matplotlib • Seaborn • Jupyter • Git & GitHub • LabVIEW • SolidWorks • SFML
+NumPy • Pandas • SciPy • scikit-learn • Matplotlib • Seaborn • Jupyter • Git & GitHub • LabVIEW • SolidWorks • SFML • JavaFX
 
 ---
 
