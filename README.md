@@ -7,7 +7,7 @@ I’m a biomedical engineering student passionate about using technology to solv
 ## Tech Stack
 
 **Languages:**  
-Python • C++ • MATLAB • R • JavaScript (basic)
+Python • C++ • MATLAB • R • JavaScript
 
 **Tools & Libraries:**  
 NumPy • Pandas • SciPy • scikit-learn • Matplotlib • Seaborn • Jupyter • Git & GitHub • LabVIEW • SolidWorks • SFML
